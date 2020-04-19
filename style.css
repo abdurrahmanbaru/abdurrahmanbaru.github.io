@@ -751,11 +751,11 @@ nav[role="navigation"] {
 }
 
 .cd-pagination.custom-icons .button-main a {
-  background: transparent url("img/portfolio-icon.svg") no-repeat center center;
+  background: transparent url("img/icon.svg") no-repeat center center;
 }
 
 .cd-pagination.custom-icons .button-main a:hover {
-  background: transparent url("img/portfolio-icon.svg") no-repeat center center;
+  background: transparent url("img/icon.svg") no-repeat center center;
   border:1px solid #2c2c2c;
   -webkit-transition: border 1s;
   -moz-transition: border 1s;
